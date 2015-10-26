@@ -5,4 +5,4 @@ Git tracks changes of files.
 ha
 lululu
 
-creating a new branch is quick.
+creating a new branch is quick & simple.
